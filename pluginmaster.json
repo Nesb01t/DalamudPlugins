@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Nesb01t",
+    "Name": "XIVAutoKey",
+    "InternalName": "XIVAutoKey",
+    "RepoUrl": "https://github.com/Nesb01t/XIVAutoKey",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "Tags": ["autokey"],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "免费的 FFXIV 工具库, 包含一些简单的自动化类, 供学习 & 开发工具用途",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/main/plugins/XIVAutoKey/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/main/plugins/XIVAutoKey/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/main/plugins/XIVAutoKey/latest.zip"
+  }
+]
