@@ -13,6 +13,12 @@ https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/pluginmaster.jso
 
 ## XIVSpeedTrainer
 
-[XIVSpeedTrainer](https://github.com/Nesb01t/XIVAutoKey) - 玩家移速调试工具
+[XIVSpeedTrainer](https://github.com/Nesb01t/XIVSpeedTrainer) - 玩家移速调试工具
 
 ![image](https://github.com/Nesb01t/XIVSpeedTrainer/assets/99083668/3c020248-bdbb-4cc7-bb50-bfc9650e6ac2)
+
+## XIVIslandCollector
+
+[XIVIslandCollector](https://github.com/Nesb01t/XIVIslandCollector) - 无人岛矿车青春版
+
+![image](https://github.com/Nesb01t/DalamudPlugins/assets/99083668/c551ff4c-9dc6-4b65-9c53-f61bf1c876b0)
