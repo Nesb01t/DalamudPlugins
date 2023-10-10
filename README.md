@@ -11,3 +11,8 @@ https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/pluginmaster.jso
 
 ![image](https://github.com/Nesb01t/DalamudPlugins/assets/99083668/5d3263cc-31c9-4383-be4e-116ea60d0696)
 
+## FFXIV Speed Trainer
+
+玩家移速调试工具
+
+![image](https://github.com/Nesb01t/XIVSpeedTrainer/assets/99083668/3c020248-bdbb-4cc7-bb50-bfc9650e6ac2)
