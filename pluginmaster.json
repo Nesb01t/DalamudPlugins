@@ -24,7 +24,7 @@
     "Name": "XIVSpeedTrainer",
     "InternalName": "XIVSpeedTrainer",
     "RepoUrl": "https://github.com/Nesb01t/XIVSpeedTrainer",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
     "ApplicableVersion": "any",
     "Tags": ["autokey"],
