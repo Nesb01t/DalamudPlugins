@@ -38,5 +38,25 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVSpeedTrainer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVSpeedTrainer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVSpeedTrainer/latest.zip"
+  },
+  {
+    "Author": "Nesb01t",
+    "Name": "XIVIslandCollector",
+    "InternalName": "XIVIslandCollector",
+    "RepoUrl": "https://github.com/Nesb01t/XIVIslandCollector",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "Tags": ["trainer"],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "FFXIV 无人岛自动吸材料矿车",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVIslandCollector/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVIslandCollector/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nesb01t/DalamudPlugins/master/plugins/XIVIslandCollector/latest.zip"
   }
 ]
